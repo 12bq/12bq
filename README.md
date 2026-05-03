@@ -10,7 +10,7 @@ I'm a student passionate about learning and building things. I like to dabble in
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=12bq&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=12bq&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
