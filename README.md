@@ -6,6 +6,4 @@ I'm a student passionate about learning and building things. I like to dabble in
 - 🙈 Currently learning: Ollama, Discord API
 - 📫 Reach me at: [chespinethan@gmail.com]
 
----
-
 *Thanks for stopping by!*
