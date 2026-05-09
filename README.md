@@ -8,5 +8,3 @@ I like to dabble in niche projects.
 - 📫 Reach me at: [chespinethan@gmail.com]
 
 *Thanks for stopping by!*
-
-Test text
