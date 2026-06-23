@@ -6,5 +6,3 @@ I like to dabble in niche projects.
 - 📁 Currently working on: [Name] Discord bot
 - 👀 Currently learning: Ollama, Discord API
 - 📫 Reach me at: [chespinethan@gmail.com]
-
-test
