@@ -4,5 +4,5 @@ I'm a student at the University of Toronto, and I'm passionate about learning an
 I like to dabble in niche projects.
 
 - 📁 Currently working on: [Name] Discord bot
-- 👀 Currently learning: Ollama, Discord API
+- 👀 Currently learning:
 - 📫 Reach me at: [chespinethan@gmail.com]
